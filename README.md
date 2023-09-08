@@ -1,6 +1,6 @@
 # WebDesign-Project-Figma
 (HTML, CSS, FIGMA)  
-Projekt izrade web stranice koji prati korake:  
+**Projekt izrade web stranice koji prati korake:**   
 -istraživanja ciljane skupine i konkurencije  
 -arhitekture informacija  
 -izrade wireframea  
